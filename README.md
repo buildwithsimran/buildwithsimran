@@ -1,4 +1,4 @@
-# 💫 About Me:
+ # 💫 About Me:
 Hello, I'm Simran!<br><br>A Full Stack Developer who loves bringing ideas to life on the web<br>I work with React, JavaScript, Supabase, and modern web tools daily<br>Big on UI/UX, clean animations, and building things that feel good to use<br>Learning something new every day — that's the goal<br><br>Comfortable working with:<br>- Frontend: React, JavaScript, HTML, CSS<br>- Backend: Node.js, Supabase<br>- Database: PostgreSQL<br>- Design: Responsive UI, Animations, Modern Web<br><br>Lately<br>- Building real-world full-stack projects<br>- Making UIs that people actually enjoy using<br>- Always exploring what's next in web dev<br><br>> "Keep building, stay curious."
 
 
@@ -10,7 +10,6 @@ Hello, I'm Simran!<br><br>A Full Stack Developer who loves bringing ideas to lif
 
 # 📊 GitHub Stats:<br>
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=buildwithsimran&theme=github_dark)<br>
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=buildwithsimran&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)

@@ -1,16 +1,16 @@
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:4C1D95,50:6D28D9,100:312E81&height=220&section=header&text=SIMRAN%20RAJPAL&fontSize=48&fontColor=FFFFFF&animation=fadeIn&fontAlignY=35&desc=FULL%20STACK%20DEVELOPER%20%E2%80%A2%20WEB%20ENGINEER%20%E2%80%A2%20UI/UX%20ENTHUSIAST&descAlignY=56&descSize=16"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:F8FAFC,50:E2E8F0,100:94A3B8&height=220&section=header&text=SIMRAN%20RAJPAL&fontSize=48&fontColor=1E293B&animation=fadeIn&fontAlignY=35&desc=FULL%20STACK%20DEVELOPER%20%E2%80%A2%20WEB%20ENGINEER%20%E2%80%A2%20UI/UX%20ENTHUSIAST&descAlignY=56&descSize=16"/>
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=1000&color=8B5CF6&center=true&vCenter=true&width=750&lines=Bringing+Ideas+to+Life+on+the+Web;React+%E2%80%A2+JavaScript+%E2%80%A2+Supabase;UI-UX+%E2%80%A2+Animations+%E2%80%A2+Clean+Design;Keep+Building+%E2%86%92+Stay+Curious)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=1000&color=E2E8F0&center=true&vCenter=true&width=750&lines=Bringing+Ideas+to+Life+on+the+Web;React+%E2%80%A2+JavaScript+%E2%80%A2+Supabase;UI-UX+%E2%80%A2+Animations+%E2%80%A2+Clean+Design;Keep+Building+%E2%86%92+Stay+Curious)](https://git.io/typing-svg)
 
-![Full Stack Developer](https://img.shields.io/badge/Full%20Stack-Developer-6D28D9?style=flat-square)
-![Frontend Engineering](https://img.shields.io/badge/Frontend-Engineering-7C3AED?style=flat-square)
-![Web Development](https://img.shields.io/badge/Web-Development-4F46E5?style=flat-square)
-![UI UX](https://img.shields.io/badge/UI%20%2F%20UX-Engineering-6366F1?style=flat-square)
+![Full Stack Developer](https://img.shields.io/badge/Full%20Stack-Developer-CBD5E1?style=flat-square)
+![Frontend Engineering](https://img.shields.io/badge/Frontend-Engineering-94A3B8?style=flat-square&labelColor=1E293B)
+![Web Development](https://img.shields.io/badge/Web-Development-64748B?style=flat-square&labelColor=1E293B)
+![UI UX](https://img.shields.io/badge/UI%20%2F%20UX-Engineering-E2E8F0?style=flat-square&labelColor=1E293B)
 
-[![LinkedIn](https://img.shields.io/badge/LINKEDIN-4F46E5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/buildwithsimran/)
-[![Email](https://img.shields.io/badge/EMAIL-7C3AED?style=for-the-badge&logo=gmail&logoColor=white)](mailto:contact.simran.rajpal@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LINKEDIN-F8FAFC?style=for-the-badge&logo=linkedin&logoColor=0A66C2)](https://www.linkedin.com/in/buildwithsimran/)
+[![Email](https://img.shields.io/badge/EMAIL-E2E8F0?style=for-the-badge&logo=gmail&logoColor=D14836)](mailto:contact.simran.rajpal@gmail.com)
 
 </div>
 
@@ -57,10 +57,10 @@ Learning something new every day — that's the goal.
 
 <div align="center">
 
-![React Native](https://img.shields.io/badge/React%20Native-6D28D9?style=flat-square&logo=react&logoColor=white)
-![Responsive UI](https://img.shields.io/badge/Responsive-UI-7C3AED?style=flat-square)
-![Animations](https://img.shields.io/badge/Web-Animations-4F46E5?style=flat-square)
-![Clean Design](https://img.shields.io/badge/Clean-Design-6366F1?style=flat-square)
+![React Native](https://img.shields.io/badge/React%20Native-CBD5E1?style=flat-square&logo=react&logoColor=1E293B)
+![Responsive UI](https://img.shields.io/badge/Responsive-UI-94A3B8?style=flat-square)
+![Animations](https://img.shields.io/badge/Web-Animations-64748B?style=flat-square)
+![Clean Design](https://img.shields.io/badge/Clean-Design-E2E8F0?style=flat-square)
 
 </div>
 
@@ -77,10 +77,10 @@ Learning something new every day — that's the goal.
 <div align="center">
 
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-6D28D9?style=for-the-badge)
-![Scikit Learn](https://img.shields.io/badge/Scikit--Learn-4F46E5?style=for-the-badge&logo=scikitlearn&logoColor=white)
-![Power BI](https://img.shields.io/badge/Power%20BI-7C3AED?style=for-the-badge&logo=powerbi&logoColor=white)
-![Vitest](https://img.shields.io/badge/Vitest-4338CA?style=for-the-badge&logo=vitest&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-CBD5E1?style=for-the-badge)
+![Scikit Learn](https://img.shields.io/badge/Scikit--Learn-64748B?style=for-the-badge&logo=scikitlearn&logoColor=1E293B)
+![Power BI](https://img.shields.io/badge/Power%20BI-94A3B8?style=for-the-badge&logo=powerbi&logoColor=1E293B)
+![Vitest](https://img.shields.io/badge/Vitest-475569?style=for-the-badge&logo=vitest&logoColor=white)
 
 </div>
 
@@ -94,9 +94,9 @@ Learning something new every day — that's the goal.
 
 <div align="center">
 
-![Render](https://img.shields.io/badge/Render-6D28D9?style=flat-square&logo=render&logoColor=white)
-![Canva](https://img.shields.io/badge/Canva-7C3AED?style=flat-square&logo=canva&logoColor=white)
-![Markdown](https://img.shields.io/badge/Markdown-4F46E5?style=flat-square&logo=markdown&logoColor=white)
+![Render](https://img.shields.io/badge/Render-CBD5E1?style=flat-square&logo=render&logoColor=1E293B)
+![Canva](https://img.shields.io/badge/Canva-94A3B8?style=flat-square&logo=canva&logoColor=1E293B)
+![Markdown](https://img.shields.io/badge/Markdown-64748B?style=flat-square&logo=markdown&logoColor=1E293B)
 
 </div>
 
@@ -163,31 +163,31 @@ Focused on building real-world full-stack projects and making UIs that people ac
 
 ### Frontend
 
-![React](https://img.shields.io/badge/React-6D28D9?style=for-the-badge&logo=react&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-4F46E5?style=for-the-badge&logo=javascript&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-7C3AED?style=for-the-badge&logo=typescript&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind%20CSS-4338CA?style=for-the-badge&logo=tailwindcss&logoColor=white)
+![React](https://img.shields.io/badge/React-CBD5E1?style=for-the-badge&logo=react&logoColor=1E293B)
+![JavaScript](https://img.shields.io/badge/JavaScript-64748B?style=for-the-badge&logo=javascript&logoColor=1E293B)
+![TypeScript](https://img.shields.io/badge/TypeScript-94A3B8?style=for-the-badge&logo=typescript&logoColor=1E293B)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind%20CSS-475569?style=for-the-badge&logo=tailwindcss&logoColor=F8FAFC)
 
 ### Backend & Data
 
-![Node.js](https://img.shields.io/badge/Node.js-6D28D9?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![Supabase](https://img.shields.io/badge/Supabase-4F46E5?style=for-the-badge&logo=supabase&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-7C3AED?style=for-the-badge&logo=postgresql&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-4338CA?style=for-the-badge&logo=firebase&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-CBD5E1?style=for-the-badge&logo=nodedotjs&logoColor=1E293B)
+![Supabase](https://img.shields.io/badge/Supabase-64748B?style=for-the-badge&logo=supabase&logoColor=1E293B)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-94A3B8?style=for-the-badge&logo=postgresql&logoColor=1E293B)
+![Firebase](https://img.shields.io/badge/Firebase-475569?style=for-the-badge&logo=firebase&logoColor=F8FAFC)
 
 ### Data & Analytics
 
-![Python](https://img.shields.io/badge/Python-6D28D9?style=for-the-badge&logo=python&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-4F46E5?style=for-the-badge&logo=pandas&logoColor=white)
-![Scikit Learn](https://img.shields.io/badge/Scikit--Learn-7C3AED?style=for-the-badge&logo=scikitlearn&logoColor=white)
-![Power BI](https://img.shields.io/badge/Power%20BI-4338CA?style=for-the-badge&logo=powerbi&logoColor=white)
+![Python](https://img.shields.io/badge/Python-CBD5E1?style=for-the-badge&logo=python&logoColor=1E293B)
+![Pandas](https://img.shields.io/badge/Pandas-64748B?style=for-the-badge&logo=pandas&logoColor=1E293B)
+![Scikit Learn](https://img.shields.io/badge/Scikit--Learn-94A3B8?style=for-the-badge&logo=scikitlearn&logoColor=1E293B)
+![Power BI](https://img.shields.io/badge/Power%20BI-475569?style=for-the-badge&logo=powerbi&logoColor=F8FAFC)
 
 ### Development & Deployment
 
-![GitHub](https://img.shields.io/badge/GitHub-6D28D9?style=for-the-badge&logo=github&logoColor=white)
-![Vercel](https://img.shields.io/badge/Vercel-4F46E5?style=for-the-badge&logo=vercel&logoColor=white)
-![Render](https://img.shields.io/badge/Render-7C3AED?style=for-the-badge&logo=render&logoColor=white)
-![NPM](https://img.shields.io/badge/NPM-4338CA?style=for-the-badge&logo=npm&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-CBD5E1?style=for-the-badge&logo=github&logoColor=1E293B)
+![Vercel](https://img.shields.io/badge/Vercel-64748B?style=for-the-badge&logo=vercel&logoColor=F8FAFC)
+![Render](https://img.shields.io/badge/Render-94A3B8?style=for-the-badge&logo=render&logoColor=1E293B)
+![NPM](https://img.shields.io/badge/NPM-475569?style=for-the-badge&logo=npm&logoColor=F8FAFC)
 
 ---
 
@@ -195,9 +195,9 @@ Focused on building real-world full-stack projects and making UIs that people ac
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=buildwithsimran&show_icons=true&theme=midnight-purple&hide_border=true&bg_color=0D1117&title_color=8B5CF6&icon_color=7C3AED&text_color=C9D1D9&rank_icon=github"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=buildwithsimran&show_icons=true&theme=dark&hide_border=true&bg_color=0D1117&title_color=E2E8F0&icon_color=94A3B8&text_color=CBD5E1&rank_icon=github"/>
 
-<img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=buildwithsimran&theme=midnight-purple&hide_border=true&background=0D1117&ring=8B5CF6&fire=7C3AED&currStreakLabel=8B5CF6"/>
+<img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=buildwithsimran&theme=dark&hide_border=true&background=0D1117&ring=E2E8F0&fire=F8FAFC&currStreakLabel=E2E8F0"/>
 
 <br>
 
@@ -221,7 +221,7 @@ Focused on building real-world full-stack projects and making UIs that people ac
 
 <div align="center">
 
-[![Simran's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=buildwithsimran&bg_color=0D1117&color=8B5CF6&line=6D28D9&point=FFFFFF&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Simran's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=buildwithsimran&bg_color=0D1117&color=E2E8F0&line=94A3B8&point=F8FAFC&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 </div>
 
@@ -276,12 +276,12 @@ Open To:
 
 <div align="center">
 
-[![Gmail](https://img.shields.io/badge/GMAIL-CONTACT%20ME-6D28D9?style=for-the-badge&logo=gmail&logoColor=white)](mailto:contact.simran.rajpal@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LINKEDIN-LET'S%20CONNECT-4F46E5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/buildwithsimran/)
+[![Gmail](https://img.shields.io/badge/GMAIL-CONTACT%20ME-CBD5E1?style=for-the-badge&logo=gmail&logoColor=D14836)](mailto:contact.simran.rajpal@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LINKEDIN-LET'S%20CONNECT-64748B?style=for-the-badge&logo=linkedin&logoColor=0A66C2)](https://www.linkedin.com/in/buildwithsimran/)
 
 <br>
 
-[![GitHub](https://img.shields.io/badge/GITHUB-EXPLORE%20MY%20CODE-4338CA?style=for-the-badge&logo=github&logoColor=white)](https://github.com/buildwithsimran)
+[![GitHub](https://img.shields.io/badge/GITHUB-EXPLORE%20MY%20CODE-475569?style=for-the-badge&logo=github&logoColor=F8FAFC)](https://github.com/buildwithsimran)
 
 </div>
 
@@ -293,4 +293,4 @@ Open To:
 
 </div>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:312E81,50:6D28D9,100:4C1D95&height=130&section=footer"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:94A3B8,50:E2E8F0,100:F8FAFC&height=130&section=footer"/>

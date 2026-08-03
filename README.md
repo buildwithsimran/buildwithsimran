@@ -14,6 +14,12 @@
 
 </div>
 
+<div align="center">
+
+<img alt="GitHub contribution snake animation" src="https://cdn.jsdelivr.net/gh/buildwithsimran/buildwithsimran@output/github-contribution-grid-snake-dark.svg">
+
+</div>
+
 ---
 
 ## About
@@ -222,20 +228,6 @@ Focused on building real-world full-stack projects and making UIs that people ac
 <div align="center">
 
 [![Simran's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=buildwithsimran&bg_color=0D1117&color=E2E8F0&line=94A3B8&point=F8FAFC&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
-</div>
-
----
-
-## Contribution Snake
-
-<div align="center">
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/buildwithsimran/buildwithsimran/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/buildwithsimran/buildwithsimran/output/github-contribution-grid-snake.svg">
-  <img alt="GitHub contribution snake animation" src="https://raw.githubusercontent.com/buildwithsimran/buildwithsimran/output/github-contribution-grid-snake-dark.svg">
-</picture>
 
 </div>
 
